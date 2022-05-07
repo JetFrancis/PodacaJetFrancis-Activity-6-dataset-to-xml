@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<!DOCTYPE ArcGIS [
+		<!ELEMENT ArcGIS (colleges_and_universities)>
+		<!ELEMENT colleges_and_universities (IPEDSID, name, address, city, zip, zip4, telephone, population, county, countyfips)>
+
+		<!ELEMENT colleges_and_universities (#PCDATA)>
+		<!ELEMENT IPEDSID (#PCDATA)>
+		<!ELEMENT name (#PCDATA)>
+		<!ELEMENT address (#PCDATA)>
+		<!ELEMENT city (#PCDATA)>
+		<!ELEMENT zip (#PCDATA)>
+		<!ELEMENT zip4 (#PCDATA)>
+		<!ELEMENT telephone (#PCDATA)>
+		<!ELEMENT population (#PCDATA)>
+		<!ELEMENT county (#PCDATA)>
+		<!ELEMENT countyfips (#PCDATA)>
+
+		<!ATTLIST colleges_and_universities location CDATA #REQUIRED>
+		]>
+		
 <ArcGIS>
 	<colleges_and_universities location="row_1">
 		<IPEDSID>189556</IPEDSID>
