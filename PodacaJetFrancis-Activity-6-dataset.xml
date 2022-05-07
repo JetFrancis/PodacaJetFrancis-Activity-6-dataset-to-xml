@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ArcGIS>
+	<colleges_and_universities location="row_1">
+		<IPEDSID>189556</IPEDSID>
+		<name>BRYANT AND STRATTON COLLEGE-AMHERST</name>
+		<address>3650 MILLERSPORT HIGHWAY</address>
+		<city>GETZVILLE</city>
+		<zip>14068</zip>
+		<zip4>NOT AVAILABLE</zip4>
+		<telephone>(716) 625-6300</telephone>
+		<population>-999</population>
+		<county>ERIE</county>
+		<countyfips>36029</countyfips>
+
+	</colleges_and_universities>
+
+	<colleges_and_universities location="row_2">
+		<IPEDSID>190682</IPEDSID>
+		<name>CUNY SCHOOL OF LAW</name>
+		<address>2 COURT SQUARE</address>
+		<city>LONG ISLAND CITY</city>
+		<zip>11101</zip>
+		<zip4>NOT AVAILABLE</zip4>
+		<telephone>(718) 340-4200</telephone>
+		<population>859</population>
+		<county>QUEENS</county>
+		<countyfips>36081</countyfips>
+
+	</colleges_and_universities>
+
+	<colleges_and_universities location="row_3">
+		<IPEDSID>195058</IPEDSID>
+		<name>ROCKLAND COMMUNITY COLLEGE</name>
+		<address>145 COLLEGE RD</address>
+		<city>SUFFERN</city>
+		<zip>10901</zip>
+		<zip4>3699</zip4>
+		<telephone>(845) 574-4000</telephone>
+		<population>7455</population>
+		<county>ROCKLAND</county>
+		<countyfips>NOT AVAILABLE</countyfips>
+
+	</colleges_and_universities>
+
+	<colleges_and_universities location="row_4">
+		<IPEDSID>193122</IPEDSID>
+		<name>SOUTHERN WESTCHESTER BOCES-PRACTICAL NURSING PROGRAM</name>
+		<address>450 MAMARONECK AVENUE</address>
+		<city>HARRISON</city>
+		<zip>10528</zip>
+		<zip4>NOT AVAILABLE</zip4>
+		<telephone>(914) 592-0849</telephone>
+		<population>77</population>
+		<county>WESTCHESTER</county>
+		<countyfips>36119</countyfips>
+
+	</colleges_and_universities>
+
+	<colleges_and_universities location="row_5">
+		<IPEDSID>204884</IPEDSID>
+		<name>OHIO VALLEY COLLEGE OF TECHNOLOGY</name>
+		<address>15258 STATE ROUTE 170</address>
+		<city>EAST LIVERPOOL</city>
+		<zip>43920</zip>
+		<zip4>9585</zip4>
+		<telephone>(330) 385-1070</telephone>
+		<population>227</population>
+		<county>COLUMBIANA</county>
+		<countyfips>39029</countyfips>
+
+	</colleges_and_universities>
+
+	<colleges_and_universities location="row_6">
+		<IPEDSID>206932</IPEDSID>
+		<name>CENTRAL OKLAHOMA COLLEGE</name>
+		<address>14820 SERENITA AVENUE</address>
+		<city>OKLAHOMA CITY</city>
+		<zip>73134</zip>
+		<zip4>NOT AVAILABLE</zip4>
+		<telephone>(405) 609-6622</telephone>
+		<population>344</population>
+		<county>OKLAHOMA</county>
+		<countyfips>40109</countyfips>
+
+	</colleges_and_universities>
+
+	<colleges_and_universities location="row_7">
+		<IPEDSID>187620</IPEDSID>
+		<name>NEW MEXICO STATE UNIVERSITY-DONA ANA</name>
+		<address>2800 N. SONOMA RANCH BLVD.</address>
+		<city>LAS CRUCES</city>
+		<zip>88011</zip>
+		<zip4>NOT AVAILABLE</zip4>
+		<telephone>(575) 528-7000</telephone>
+		<population>8742</population>
+		<county>DOÑA ANA</county>
+		<countyfips>35013</countyfips>
+
+	</colleges_and_universities>
+
+	<colleges_and_universities location="row_8">
+		<IPEDSID>188137</IPEDSID>
+		<name>SANTA FE COMMUNITY COLLEGE</name>
+		<address>6401 RICHARDS AVE</address>
+		<city>SANTA FE</city>
+		<zip>87508</zip>
+		<zip4>4887</zip4>
+		<telephone>(505) 428-1000</telephone>
+		<population>4804</population>
+		<county>SANTA FE</county>
+		<countyfips>35049</countyfips>
+
+	</colleges_and_universities>
+
+	<colleges_and_universities location="row_9">
+		<IPEDSID>475413</IPEDSID>
+		<name>PANACHE ACADEMY OF BEAUTY</name>
+		<address>1120 ZAP DRIVE</address>
+		<city>BARABOO</city>
+		<zip>53913</zip>
+		<zip4>2596</zip4>
+		<telephone>(608) 253-7262</telephone>
+		<population>42</population>
+		<county>SAUK</county>
+		<countyfips>55111</countyfips>
+
+	</colleges_and_universities>
+
+	<colleges_and_universities location="row_10">
+		<IPEDSID>228732</IPEDSID>
+		<name>TEXAS A AND M UNIVERSITY-SYSTEM OFFICE</name>
+		<address>301 TARROW</address>
+		<city>COLLEGE STATION</city>
+		<zip>77840</zip>
+		<zip4>7896</zip4>
+		<telephone>(979) 458-6000</telephone>
+		<population>279</population>
+		<county>BRAZOS</county>
+		<countyfips>48041</countyfips>
+
+	</colleges_and_universities>
+	
+</ArcGIS>
+
+
